@@ -1,8 +1,0 @@
-=========== STRUK PEMBAYARAN ===========
-Tujuan Awal     : Cileunyi
-Tujuan Akhir    : Buah Batu
-Golongan Kendaraan: golongan_2
-Tarif           : Rp. 9200
-Saldo Awal      : Rp. 10000
-Sisa Saldo      : Rp. 800
-========================================
